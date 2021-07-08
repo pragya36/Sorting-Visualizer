@@ -5,3 +5,4 @@
 - Merge Sort
 - Heap Sort
 - Bubble Sort
+- Quick sort
